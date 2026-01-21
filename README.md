@@ -1,5 +1,7 @@
 # Dashboard Xbox DIO
 
+![Screenshot do Dashboard](dashboard.png)
+
 Este projeto foi desenvolvido durante o curso de "Análise de Dados com Excel e Copilot" do Bootcamp Sandander 2025 - Ciências de dados com Python, disponibilizado pela **DIO (Digital Innovation One)**. O objetivo foi criar uma visualização de dados eficiente para analisar vendas de assinaturas Xbox.
 
 ## 📊 O Projeto
